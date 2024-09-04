@@ -15,4 +15,4 @@ Hello everyone , I have built a pizza menu using React js app
 
 # Link to check my React Pizza-Menu project
 
- <a http://KhatiaChip.github.io/Pizza-menu </a
+ http://KhatiaChip.github.io/Pizza-menu 
